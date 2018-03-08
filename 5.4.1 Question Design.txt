@@ -1,0 +1,79 @@
+Drill 5.4.1: Question design.
+
+
+    Age: Dropdown (multiple choice - letting them write in a number requires formatting verification)
+
+    Gender: Multiple choice
+
+    Income: Dropdown (income ranges by 10k increments, for example)
+
+    Opinions about dish soap: Rating scale with specific questions about the soaps
+
+    Brand of dish soap used: Multiple choice
+
+    Preference for dish soap brand (Cleany, Sudsy, DeGreaser, Pinesoft): Ranking system
+
+    Positive vs negative feelings about dish soap: Rating scale
+
+
+From Mainstream Media Accountability Survey:
+
+1. Do you trust the mainstream media to put the interests of Americans first?
+
+Problem: people have different definitions of "mainstream media" (for instance, Fox News viewers don't consider Fox News to be MSM, and pretty much everyone who actually uses that term does so because they are biased), and the question implies that the media is not putting interests of Americans first.
+
+Less Biased: Whose interests do you feel the media puts first?
+	- Corporate Sponsors
+	- The White House
+	- American Citizens
+	- Other: __________
+
+2. On which issues does the mainstream media do the worst job of representing President Trump? (Select as many that apply.)
+
+Ugh. This question is confusing and biased. It assumes the media is doing a bad job on everything. Less biased would be:
+
+Do you feel that the media misrepresents the president on any of the following issues?
+
+3. Do you feel that the media is too eager to slur conservatives with baseless accusations of racism and sexism?
+
+Double ugh. Again, this question is hard to understand and hard to answer. It's assuming you agree that there are baseless accusations of racism and sexism, and then asks a broad question about the media's motivations. Less biased:
+
+Do you think the media misrepresents politicians on the topics of racism and sexism?
+	- misrepresents republicans
+	- misrepresents democrats
+	- misrepresents both
+	- represents both fairly
+
+4. Based on your answers above, do you believe that the Republican Party should spend more time and resources holding the mainstream media accountable?
+
+First of all, this is NOT based on the questions above, it's a new question. Also, any answer besides "Yes" is meaningless and impossible to interpret. Did they select "no" because they don't want more resources allocated, or because they don't believe the media needs to be "held accountable?" 
+
+Better: Should the government spend more money fact-checking the media, or what they really want to ask: Should the government spend money working to censor the media?
+
+5. Do you believe that the media has been too quick to spread false stories about our movement?
+
+"No, I believe the media took exactly the right amount of time spreading false stories about your movement." This question is asking a bunch of things in an already biased way. 
+
+Better: Do you think the media has created false stories about the Trump whitehouse?
+
+
+
+5.4.3 Self Reported Survey Data
+
+Popularity of various Uber drivers. 
+Yes -- a simple 1-5 rating should work. You don't get to choose your driver, so there isn't another good way to capture this data.
+
+A grocery store wants to know how much people like strawberry, chocolate, and vanilla ice cream. 
+Nope -- just look at sales records.
+
+Trojan wants to know whether their condoms are more popular among straight people or gay people. 
+Tough one -- it's a touchy subject and you might not get a clear outcome. Maybe look at different markets where you have estimates on gay/straight ration and see how sales differ.
+
+Recently, rental rates for HappyCars have increased by 30%, which is quite unusual. You want to find out why this is happening and how to keep the increase going. 
+It's tough to capture people's motivations in a survey. You could ask if a specific piece of advertising caused a client to use the service, but you might not get good results.
+
+Assessing the success rate of a new advertising campaign. 
+Nope -- look at changes in sales before/after launch, and compare different regions that had different campaigns, etc.
+
+Measuring the effect of nurse/patient ratio on patient recovery rates in hospital wards.
+Nope. You can get actual data for this, don't need to survey people (who are likely very biased to their own nurses, etc).
